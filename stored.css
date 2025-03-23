@@ -1,0 +1,19 @@
+/* Custom Font and Styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Table Hover Effect */
+table tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+/* Icons Styling */
+i {
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+i:hover {
+    transform: scale(1.1);
+}
